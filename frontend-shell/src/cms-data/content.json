@@ -1,0 +1,41 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "TechSoft",
+      "location": "Hyderabad",
+      "type": "Full Time"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "Innovate Labs",
+      "location": "Bangalore",
+      "type": "Full Time"
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "position": "Frontend Developer",
+      "stage": "Applied",
+      "email": "kodatiraveendra@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Singh",
+      "position": "Backend Developer",
+      "stage": "Interview",
+      "email": "kodatiraveendra@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Arjun Patel",
+      "position": "UI Designer",
+      "stage": "Offer",
+      "email": "kodatiraveendra@gmail.com"
+    }
+  ]
+}
