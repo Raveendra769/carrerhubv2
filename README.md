@@ -121,7 +121,7 @@ CareerHub
 │   │
 │   ├── uploads
 │   ├── package.json
-│   
+│
 │
 └── frontend-shell
     ├── public
@@ -139,6 +139,9 @@ CareerHub
 ```
 
 ---
+
+
+
 # 📋 Prerequisites
 
 Before running the project, ensure you have:
@@ -148,7 +151,7 @@ Before running the project, ensure you have:
 - MongoDB (Local or Atlas)
 - Git
 
-- 
+
 # 🚀 Getting Started
 
 ## Clone Repository
@@ -201,7 +204,6 @@ CLIENT_URL=http://localhost:5173
 
 # 📸 Screenshots
 
-
 ### 🏠 Home Page
 
 <p align="center">
@@ -218,7 +220,6 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-
 ### 📊 Recruiter Dashboard
 
 <p align="center">
@@ -230,12 +231,13 @@ CLIENT_URL=http://localhost:5173
 ## 🏗 Architecture
 
 React + TypeScript + Tailwind CSS
-              │
-              ▼
-      Express.js REST API
-              │
-              ▼
-           MongoDB
+│
+▼
+Express.js REST API
+│
+▼
+MongoDB
+
 ---
 
 # 🚀 Future Roadmap
@@ -259,13 +261,15 @@ React + TypeScript + Tailwind CSS
 - Performance Optimization
 
 ---
-## ⚙️ Environment Variables
+
+#### 📄 .env.example
 
 Copy `.env.example` to `.env` and update the values before running the project.
 
 # 🌐 Live Demo
 
 🚧 Coming Soon
+
 # 🤝 Contributing
 
 Contributions are always welcome!
@@ -351,6 +355,7 @@ By contributing to CareerHub, you'll gain experience in:
 - Open Source Collaboration
 
 ---
+
 ## 🐛 Reporting Bugs
 
 If you find a bug:
@@ -359,6 +364,8 @@ If you find a bug:
 2. Create a new Issue if it hasn't been reported.
 3. Include steps to reproduce the bug.
 4. Attach screenshots if applicable.
+
+
 # 📄 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it in accordance with the license.<img src="https://img.shields.io/github/license/Raveendra769/carrerhubv2?style=for-the-badge"/>
@@ -382,7 +389,6 @@ Backend & Full Stack Developer
 
 ---
 
-
 ## 🌟 Show Your Support
 
 If you found this project useful:
@@ -396,7 +402,6 @@ If you found this project useful:
 📢 Share it with others
 
 Thank you for visiting CareerHub! 🚀
-
 
 # 🙏 Acknowledgements
 
